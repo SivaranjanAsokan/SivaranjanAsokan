@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sivaranjandevopscloud/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sivaranjandevopscloud/" height="30" width="40" /></a>
-<a href="https://hashnode.com/@sivadevops.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@sivadevops.hashnode.dev" height="30" width="40" /></a>
+<a href="https://sivadevops.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@sivadevops.hashnode.dev" height="30" width="40" /></a>
 <a href="https://medium.com/@avsivaranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@avsivaranjan" height="30" width="40" /></a>
 </p>
 
