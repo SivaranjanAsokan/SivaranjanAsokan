@@ -30,6 +30,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sivaranjanasokan&" alt="sivaranjanasokan" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siav&label=Profile%20views&color=0e75b6&style=flat" alt="siav" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=siav&label=Profile%20views&color=0e75b6&style=flat" alt="siav" /> </p>
 
 
