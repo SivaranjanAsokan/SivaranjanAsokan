@@ -1,5 +1,4 @@
 
-![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)
 ![image](https://github.com/SivaranjanAsokan/SivaranjanAsokan/assets/163242501/41ac6877-5545-41b8-8776-8952183f0f17)
 
 
