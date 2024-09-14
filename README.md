@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Aws Devops-Jenkins Docker Terraform k8s Git@GitHub & Linux**
 
-- 📫 How to reach me **civaranjan@gmail.com**
+- 📫 How to reach me **avivaranjanoffice@gmail.com**
 
 - ⚡ Fun fact **Cool & Funny**
 
