@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@avsivaranjan](https://medium.com/@avsivaranjan)
 
-- 💬 Ask me about **Aws Devops-Jenkins Docker Terraform k8s Git@GitHub & Linux**
+- 💬 Ask me about **Aws Devops**
 
 - 📫 How to reach me **avivaranjan@gmail.com**
 
