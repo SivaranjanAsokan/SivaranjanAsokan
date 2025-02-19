@@ -8,7 +8,7 @@
 
 
 
-- 🕴🏻 My Portfolio available at [https://avsivaranjan.com](https://avsivaranjan.com)
+- 🕴🏻 My Portfolio available at [https://linktr.ee/avsivaranjan](https://linktr.ee/avsivaranjan)
 
 - 👨‍💻 All of my projects are available at [https://sivadevops.hashnode.dev/](https://sivadevops.hashnode.dev/)
 
